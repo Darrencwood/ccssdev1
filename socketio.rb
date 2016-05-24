@@ -2,6 +2,7 @@
   "npm_packages": [
     {
       "name":"socket.io",
-      "path": "var/www/apit"
+      "path": "var/www/api"
     }
+  ]
 }
